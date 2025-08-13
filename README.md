@@ -1,7 +1,7 @@
 # Professional Resume
 
 ## Name
-*Insert your name here*
+Danilo Fonseca
 
 ## Future Career Objective
 Aspiring Cybersecurity Analyst with a focus on Security Operations Center (SOC) / Blue Team roles. Dedicated to defending organizations against cyber threats through proactive monitoring, incident response, and continuous improvement of security posture.
