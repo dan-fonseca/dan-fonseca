@@ -1,16 +1,32 @@
-## Hi there 👋
+# Professional Resume
 
-<!--
-**dan-fonseca/dan-fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name
+*Insert your name here*
 
-Here are some ideas to get you started:
+## Future Career Objective
+Aspiring Cybersecurity Analyst with a focus on Security Operations Center (SOC) / Blue Team roles. Dedicated to defending organizations against cyber threats through proactive monitoring, incident response, and continuous improvement of security posture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Programming Languages:** Python, SQL, Bash Scripting
+- **Cloud Platforms:** AWS
+- **Security Tools & Platforms:** SIEM, IDS/IPS, Snort, Wireshark/TShark, YARA and Splunk
+
+## Current Status
+On Progress
+
+## Certifications & Achievements
+- Achieved Top 2% on TryHackMe platform
+- Ranked in the Top 500 in Brazil on TryHackMe
+
+## LinkedIn
+*Insert your LinkedIn link here*
+
+## Twitter
+*Insert your Twitter link here*
+
+## Additional Information
+N/A
+
+---
+
+*Resume updated on 2025-08-13*
