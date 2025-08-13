@@ -20,7 +20,7 @@ On Progress
 - Working in Comptia A+, Network+ and Security+
 
 ## LinkedIn
-<a href="https://www.linkedin.com/in/danilo-fonseca-67209a352/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/danilo-fonseca-67209a352/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 
 ## Twitter
 https://x.com/root_r34p3r
