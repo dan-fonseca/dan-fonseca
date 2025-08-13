@@ -19,10 +19,10 @@ On Progress
 - Ranked in the Top 500 in Brazil on TryHackMe
 
 ## LinkedIn
-*Insert your LinkedIn link here*
+https://www.linkedin.com/in/danilo-fonseca-67209a352/
 
 ## Twitter
-*Insert your Twitter link here*
+https://x.com/root_r34p3r
 
 ## Additional Information
 N/A
