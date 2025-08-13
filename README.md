@@ -11,12 +11,13 @@ Aspiring Cybersecurity Analyst with a focus on Security Operations Center (SOC) 
 - **Cloud Platforms:** AWS
 - **Security Tools & Platforms:** SIEM, IDS/IPS, Snort, Wireshark/TShark, YARA and Splunk
 
-## Current Status
+## Projects
 On Progress
 
 ## Certifications & Achievements
 - Achieved Top 2% on TryHackMe platform
-- Ranked in the Top 500 in Brazil on TryHackMe
+- Ranked in the Top 500 in Brazil on TryHackMe[
+- Working in Comptia A+, Network+ and Security+
 
 ## LinkedIn
 https://www.linkedin.com/in/danilo-fonseca-67209a352/
